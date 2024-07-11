@@ -6,3 +6,4 @@ This repository is dedicated to module compatibility for the Funnyplaying FPGA G
 |---------------------|-------------|---------|----------|------------------|-----------------------------------------------------------|
 |Tetris DX|DMG-ATEA-JPN|✅|❌|1.09|In GBC Core black screen and, glitching colors, sound is playing
 |Super Donkey Kong GB|DMG-YTJ-JPN|✅|✅|1.09|
+|Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|❌|1.09|In GBC Core disoriented color palette, but playable
