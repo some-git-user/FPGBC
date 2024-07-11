@@ -12,3 +12,4 @@ This repository is dedicated to module compatibility for the Funnyplaying FPGA G
 |QIX (World)|DMG-QXA|✅|✅|1.09|
 |Super Mario Land 3: Wario Land|DMG-WJA|✅|✅|1.09|
 |Hoshi no Kirby|DMG-KYJ|✅|✅|1.09|
+|Fatal Fury 2: Dead Heat Fighters|DMG-X3J|✅|✅|1.09|
