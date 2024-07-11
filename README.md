@@ -5,3 +5,4 @@ This repository is dedicated to module compatibility for the Funnyplaying FPGA G
 | Module Name         | Module Code | GB Core | GBC Core | FPGBC FW Version | Notes
 |---------------------|-------------|---------|----------|------------------|-----------------------------------------------------------|
 |Tetris DX|DMG-ATEA-JPN|✅|❌|1.09|In GBC Core black screen and, glitching colors, sound is playing
+|Super Donkey Kong GB|DMG-YTJ-JPN|✅|✅|1.09|
