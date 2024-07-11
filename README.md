@@ -8,3 +8,7 @@ This repository is dedicated to module compatibility for the Funnyplaying FPGA G
 |Super Donkey Kong GB|DMG-YTJ-JPN|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|❌|1.09|In GBC Core disoriented color palette, but playable
 |Doraemon: Taiketsu Himitsu Dougu!!|DMG-DEJ|✅|✅|1.09|
+|Cult Jump|DMG-C7J|✅|✅|1.09|
+|QIX (World)|DMG-QXA|✅|✅|1.09|
+|Super Mario Land 3: Wario Land|DMG-WJA|✅|✅|1.09|
+|Hoshi no Kirby|DMG-KYJ|✅|✅|1.09|
