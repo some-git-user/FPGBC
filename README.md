@@ -29,3 +29,12 @@ This repository is dedicated to module compatibility for the Funnyplaying FPGA G
 |Hamster Paradise 4|CGB-BCUJ-JPN|✅|❌|1.09|In GBC Core disoriented color palette, game is unplayable
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
 |Game de Hakken!! Tamagotchi 2|DMG-AT3J-JPN|✅|✅|1.09|
+|Megami Tensei Gaiden: Last Bible II|DMG-M9J|✅|✅|1.09|
+|Quarth|DMG-QRJ|✅|✅|1.09|
+|Bokujou Monogatari|DMG-AYWJ-JPN|✅|✅|1.09|
+|Donkey Kong|DMG-QDA|✅|✅|1.09|
+|Dr. Mario|DMG-VUA|✅|✅|1.09|
+|Robocop|DMG-CP-FAH|✅|✅|1.09|
+|Hiryu no Ken Gaiden|DMG-HRJ|✅|✅|1.09|
+|Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
+|Hokuto No Ken (Fist of the North Star)|DMG-HKJ|✅|✅|1.09|
