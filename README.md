@@ -42,3 +42,4 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Hiryu no Ken Gaiden|DMG-HRJ|✅|✅|1.09|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Hokuto No Ken (Fist of the North Star)|DMG-HKJ|✅|✅|1.09|
+|Metal Gear: Ghost Babel|CGB-BMGJ-JPN|✅|✅|1.09|
