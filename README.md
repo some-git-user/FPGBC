@@ -1,10 +1,14 @@
 # Funnyplaying GBC Compatibility
-This repository is dedicated to module compatibility for the Funnyplaying FPGA Game Boy Color (FPGBC). Since I noticed problems with some games/modules, I decided to create this table to keep track of firmware updates and current incompatibilities. Feel free to extend it with your own findings and contributions to help improve the compatibility tracking.
+This repository is dedicated to game compatibility for the Funnyplaying FPGA Game Boy Color (FPGBC). Since I noticed problems with some games/modules, I decided to create this table to keep track of firmware updates and current incompatibilities. Feel free to extend it with your own findings and contributions to help improve the compatibility tracking.
+
+P.S. If you notice any color or graphic glitches, try the following:
+- If you're playing a GB module in GBC mode, turn on the GB_CLRFIX option.
+- If you're playing a GBC module in GBC mode, turn off the GB_CLRFIX option.
 
 ## Module Compatibility Table
 | Module Name         | Module Code | GB Core | GBC Core | FPGBC FW Version | Notes
 |---------------------|-------------|---------|----------|------------------|-----------------------------------------------------------|
-|Tetris DX|DMG-ATEA-JPN|✅|❌|1.09|In GBC Core black screen and, glitching colors, sound is playing but game is unplayable
+|Tetris DX|DMG-ATEA-JPN|✅|✅|1.09|
 |Super Donkey Kong GB|DMG-YTJ-JPN|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
 |Doraemon: Taiketsu Himitsu Dougu!!|DMG-DEJ|✅|✅|1.09|
@@ -26,7 +30,7 @@ This repository is dedicated to module compatibility for the Funnyplaying FPGA G
 |Onigashima Pachinko-Ten|DMG-OGJ|✅|✅|1.09|
 |America Oudan Ultra-Quiz Part 2|DMG-AUJ|✅|✅|1.09|
 |Galaga & Galaxian|DMG-AGCJ-JPN|✅|✅|1.09|
-|Hamster Paradise 4|CGB-BCUJ-JPN|✅|❌|1.09|In GBC Core disoriented color palette, game is unplayable
+|Hamster Paradise 4|CGB-BCUJ-JPN|✅|✅|1.09|
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
 |Game de Hakken!! Tamagotchi 2|DMG-AT3J-JPN|✅|✅|1.09|
 |Megami Tensei Gaiden: Last Bible II|DMG-M9J|✅|✅|1.09|
