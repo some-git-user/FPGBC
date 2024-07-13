@@ -1,0 +1,13 @@
+{
+  "name": "fpgbc",
+  "version": "1.0.0",
+  "description": "This repository is dedicated to game compatibility for the Funnyplaying FPGA Game Boy Color (FPGBC). Since I noticed problems with some games/modules, I decided to create this table to keep track of firmware updates and current incompatibilities. Feel free to extend it with your own findings and contributions to help improve the compatibility tracking.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
