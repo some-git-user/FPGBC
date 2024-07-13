@@ -9,6 +9,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 | Module Name         | Module Code | GB Core | GBC Core | FPGBC FW Version | Notes
 |---------------------|-------------|---------|----------|------------------|-----------------------------------------------------------|
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
+|Akira (Famicom)|GB Studio|✅|✅|1.09|A Remake of Akira (Famicom) with GB Studio
 |America Oudan Ultra-Quiz Part 2|DMG-AUJ|✅|✅|1.09|
 |Bokujou Monogatari|DMG-AYWJ-JPN|✅|✅|1.09|
 |Cult Jump|DMG-C7J|✅|✅|1.09|
@@ -45,4 +46,3 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Wario Land 2: Nusumareta Zaihou|DMG-AW2J-JPN|✅|✅|1.09|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
-|Akira (Famicom)|GB Studio|✅|✅|1.09|A Remake of Akira (Famicom) with GB Studio
