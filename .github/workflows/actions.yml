@@ -21,12 +21,15 @@ jobs:
       - name: Run main script
         run: node src/index.js
 
+      - name: Display Git status
+        run: git status
+
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "Auto-update README.md"
-          git push
+          git commit -m "Auto-update README.md" || echo "No changes to commit"
+          git push || echo "Push failed"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
