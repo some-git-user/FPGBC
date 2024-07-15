@@ -32,7 +32,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Dr. Mario|DMG-VUA|✅|✅|1.09|
 |Elevator Action JPN|DMG-EAA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
 |Elevator Action USA|DMG-EA-USA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
-|Everdrive X7|Model 17 Rev.C 20.02.2018|✅|✅|1.09|Had many error messages like fat16 not supported, FF, FAT not found, FAT error F3 FA F0, stuck on "OS Loading..."/"OS init...", white screen after games has loaded, SD IO error disk read error D3, SD card not found C0, MEMORY ERROR. Needed to change the SD card to an Samsung 32GB 6 HC. Sometimes it needs to be took out and put back in again, or power off and on to work properly. Tested on Everdrive OS 1.06
+|Everdrive X7|Model 17 Rev.C 20.02.2018|❌|❌|1.09|I get many error messages like "fat16 not supported", "FF", "FAT not found", "FAT error F3 FA F0", stuck on "OS Loading..."/"OS init...", white screen after game has loaded, "SD IO error disk read error D3", "SD card not found C0", "MEMORY ERROR". Tested with Samsung 32GB 6 HC SD card. Often, it needs to be removed and reinserted, or to be powered  off and on again to work properly. Tested on Everdrive OS 1.06
 |F-1 Race|DMG-F1A|✅|✅|1.09|
 |Fatal Fury 2: Dead Heat Fighters|DMG-X3J|✅|✅|1.09|
 |Galaga & Galaxian|DMG-AGCJ-JPN|✅|✅|1.09|
