@@ -14,6 +14,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
 |Killer Instinct|DMG-AKLE-USA|❌|❌|1.09|Playable, but has some minor graphical glitches. In GBC mode needs the GB_CLRFIX also
 |Kirby - Tilt 'n' Tumble|CGB-KTNE-USA|❌|❌|1.09|works, but sound gradually goes away and randomly returns. random blank screen after powering on
+|Medarot 2: Kabuto Version|DMG-A2MJ-JPN|✅|❌|1.09|In GBC core boots to blank screen
 |Rampart|DMG-R8J|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Tarzan: Lord of the Jungle|DMG-ZK|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Tetris Attack|DMG-AYLE-USA|✅|❌|1.09|Works on GB mode, but on GBC it has missing graphics, even with the CLRfix
@@ -58,6 +59,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Robocop|DMG-CP-FAH|✅|✅|1.09|
 |Solar Striker|DMG-SSA|✅|✅|1.09|
 |Super Donkey Kong GB|DMG-YTJ-JPN|✅|✅|1.09|
+|Super Mario Land|DMG-MLA|✅|✅|1.09|
 |Super Mario Land 2 6 Golden Coins|DMG-L6J|✅|✅|1.09|
 |Super Mario Land 3: Wario Land|DMG-WJA|✅|✅|1.09|
 |Tetris|DMG-TR-USA|✅|✅|1.09|
@@ -68,5 +70,3 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|✅|1.08|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
-|Super Mario Land|DMG-MLA|✅|✅|1.09|
-|Medarot 2: Kabuto Version|DMG-A2MJ-JPN|✅|❌|1.09|In GBC core boots to blank screen
