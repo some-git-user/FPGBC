@@ -8,7 +8,14 @@ P.S. If you notice any color or graphic glitches, try the following:
 ## Module Compatibility Table
 | Module Name         | Module Code | GB Core | GBC Core | FPGBC FW Version | Notes
 |---------------------|-------------|---------|----------|------------------|-----------------------------------------------------------|
+|Alleyway|DMG-AW-USA|❌|❌|1.08|Controls broken. Depending on your board's version. 1.11 and 1.1 requieres the removal of a resistor in the board, 1.12 should not need it
+|Cannon Fodder|CGB-BCFE-USA|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
+|Kirby - Tilt 'n' Tumble|CGB-KTNE-USA|❌|❌|1.09|works, but sound gradually goes away and randomly returns
+|Rampart|DMG-R8J|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
+|Tarzan: Lord of the Jungle|DMG-ZK|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
+|Tetris Attack|DMG-AYLE-USA|✅|❌|1.09|Works on GB mode, but on GBC it has missing graphics, even with the CLRfix
+|Wave Race|DMG-WA-USA-1|❌|❌|1.09|works, but the map and info on the lower part of the screen do not flicker to emulate transparency
 |Akira (Famicom)|GB Studio|✅|✅|1.09|A Remake of Akira (Famicom) with GB Studio
 |America Oudan Ultra-Quiz Part 2|DMG-AUJ|✅|✅|1.09|
 |Bokujou Monogatari|DMG-AYWJ-JPN|✅|✅|1.09|
@@ -46,10 +53,3 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Wario Land 2: Nusumareta Zaihou|DMG-AW2J-JPN|✅|✅|1.09|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
-|Alleyway|DMG-AW-USA|❌|❌|1.08|Controls broken. Depending on your board's version. 1.11 and 1.1 requieres the removal of a resistor in the board, 1.12 should not need it
-|Tetris Attack|DMG-AYLE-USA|✅|❌|1.09|Works on GB mode, but on GBC it has missing graphics, even with the CLRfix
-|Kirby - Tilt 'n' Tumble|CGB-KTNE-USA|❌|❌|1.09|works, but sound gradually goes away and randomly returns
-|Wave Race|DMG-WA-USA-1|❌|❌|1.09|works, but the map and info on the lower part of the screen do not flicker to emulate transparency
-|Cannon Fodder|CGB-BCFE-USA|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
-|Tarzan: Lord of the Jungle|DMG-ZK|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
-|Rampart|DMG-R8J|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
