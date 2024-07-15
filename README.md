@@ -24,6 +24,9 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Donkey Kong|DMG-QDA|✅|✅|1.09|
 |Doraemon: Taiketsu Himitsu Dougu!!|DMG-DEJ|✅|✅|1.09|
 |Dr. Mario|DMG-VUA|✅|✅|1.09|
+|Elevator Action JPN|Everdrive X7 1.06|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
+|Elevator Action USA|Everdrive X7 1.06|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
+|Everdrive X7|Model 17 Rev.C 20.02.2018|✅|✅|1.09|Had many error messages like ,fat16 not supported, FF, FAT not found, FAT error F3. Needed to change the SD card to an Samsung 32GB 6 HC. Sometimes it needs to be took out and put back in again to work properly. Tested on Everdrive OS 1.06
 |F-1 Race|DMG-F1A|✅|✅|1.09|
 |Fatal Fury 2: Dead Heat Fighters|DMG-X3J|✅|✅|1.09|
 |Galaga & Galaxian|DMG-AGCJ-JPN|✅|✅|1.09|
@@ -39,6 +42,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Motocross Maniacs|DMG-MXA|✅|✅|1.09|
 |Nettou Real Bout Garou Densetsu Special|DMG-ARBJ-JPN|✅|✅|1.09|
 |Onigashima Pachinko-Ten|DMG-OGJ|✅|✅|1.09|
+|Princess Poffin and the Spider Invasion|GB Studio Everdrive X7 1.06|✅|✅|1.09|
 |QIX (World)|DMG-QXA|✅|✅|1.09|
 |Quarth|DMG-QRJ|✅|✅|1.09|
 |Robocop|DMG-CP-FAH|✅|✅|1.09|
@@ -53,7 +57,3 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Wario Land 2: Nusumareta Zaihou|DMG-AW2J-JPN|✅|✅|1.09|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
-|Princess Poffin and the Spider Invasion|GB Studio Everdrive X7 1.06|✅|✅|1.09|
-|Everdrive X7|Model 17 Rev.C 20.02.2018|✅|✅|1.09|Had many error messages like ,fat16 not supported, FF, FAT not found, FAT error F3. Needed to change the SD card to an Samsung 32GB 6 HC. Sometimes it needs to be took out and put back in again to work properly. Tested on Everdrive OS 1.06
-|Elevator Action USA|Everdrive X7 1.06|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
-|Elevator Action JPN|Everdrive X7 1.06|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
