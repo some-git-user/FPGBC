@@ -8,11 +8,11 @@ P.S. If you notice any color or graphic glitches, try the following:
 ## Module Compatibility Table
 | Module Name         | Module Code | GB Core | GBC Core | FPGBC FW Version | Notes
 |---------------------|-------------|---------|----------|------------------|-----------------------------------------------------------|
-|Alleyway|DMG-AW-USA|❌|❌|1.08|Controls broken. Depending on your board's version. 1.11 and 1.1 requieres the removal of a resistor in the board, 1.12 should not need it
+|Alleyway|DMG-AW-USA|❌|❌|1.08|Controls broken. Depending on your board's version. 1.11 and 1.1 requieres the removal of a resistor in the board, 1.12 should not need it. This is the same resistor you'd remove on the 1.08 firmware on the 1.1 boards for the Gameboy printer compatibility. Alleyway has some weird interaction with the serial port and that's why it's borked without the resistor removal
 |Cannon Fodder|CGB-BCFE-USA|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Disney's Aladdin|DMG-ALAE-USA|✅|❌|1.09|In GBC mode needs the GB_CLRFIX, but has graphic glitches in transitions
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
-|Kirby - Tilt 'n' Tumble|CGB-KTNE-USA|❌|❌|1.09|works, but sound gradually goes away and randomly returns
+|Kirby - Tilt 'n' Tumble|CGB-KTNE-USA|❌|❌|1.09|works, but sound gradually goes away and randomly returns. random blank screen after powering on
 |Rampart|DMG-R8J|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Tarzan: Lord of the Jungle|DMG-ZK|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Tetris Attack|DMG-AYLE-USA|✅|❌|1.09|Works on GB mode, but on GBC it has missing graphics, even with the CLRfix
@@ -28,7 +28,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Dr. Mario|DMG-VUA|✅|✅|1.09|
 |Elevator Action JPN|DMG-EAA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
 |Elevator Action USA|DMG-EA-USA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
-|Everdrive X7|Model 17 Rev.C 20.02.2018|✅|✅|1.09|Had many error messages like ,fat16 not supported, FF, FAT not found, FAT error F3, stuck on "OS Loading...", white screen after games has loaded. Needed to change the SD card to an Samsung 32GB 6 HC. Sometimes it needs to be took out and put back in again to work properly. Tested on Everdrive OS 1.06
+|Everdrive X7|Model 17 Rev.C 20.02.2018|✅|✅|1.09|Had many error messages like fat16 not supported, FF, FAT not found, FAT error F3 FA, stuck on "OS Loading..."/"OS init...", white screen after games has loaded, SD IO error disk read error D3, SD card not found C0, MEMORY ERROR. Needed to change the SD card to an Samsung 32GB 6 HC. Sometimes it needs to be took out and put back in again, or power off and on to work properly. Tested on Everdrive OS 1.06
 |F-1 Race|DMG-F1A|✅|✅|1.09|
 |Fatal Fury 2: Dead Heat Fighters|DMG-X3J|✅|✅|1.09|
 |Galaga & Galaxian|DMG-AGCJ-JPN|✅|✅|1.09|
@@ -59,3 +59,12 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Wario Land 2: Nusumareta Zaihou|DMG-AW2J-JPN|✅|✅|1.09|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
+|Medarot 2: Kabuto Version|DMG-A2MJ-JPN|✅|✅|1.09|
+|Looney Tunes|DMG-LNJ|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
+|Bomber Boy|DMG-HBA|✅|✅|1.09|
+|Pitman|DMG-PMA|✅|✅|1.09|
+|Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|❌|1.09|Entering the first level "Out of the Woods" keeps resetting to the title screen
+|Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|✅|1.08|
+|Gameboy Camera|MGB-006|✅|✅|1.08|
+|Micro Machines 1 and 2: Twin Turbo|CGB-AT8E-USA|✅|✅|1.09|
+|Killer Instinct|DMG-AKLE-USA|❌|❌|1.09|Playable, but has some minor graphical glitches. In GBC mode needs the GB_CLRFIX also
