@@ -12,15 +12,18 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Cannon Fodder|CGB-BCFE-USA|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Disney's Aladdin|DMG-ALAE-USA|✅|❌|1.09|In GBC mode needs the GB_CLRFIX, but has graphic glitches in transitions
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
+|Killer Instinct|DMG-AKLE-USA|❌|❌|1.09|Playable, but has some minor graphical glitches. In GBC mode needs the GB_CLRFIX also
 |Kirby - Tilt 'n' Tumble|CGB-KTNE-USA|❌|❌|1.09|works, but sound gradually goes away and randomly returns. random blank screen after powering on
 |Rampart|DMG-R8J|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Tarzan: Lord of the Jungle|DMG-ZK|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Tetris Attack|DMG-AYLE-USA|✅|❌|1.09|Works on GB mode, but on GBC it has missing graphics, even with the CLRfix
+|Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|❌|1.09|Entering the first level "Out of the Woods" keeps resetting to the title screen
 |Wave Race|DMG-WA-USA-1|❌|❌|1.09|works, but the map and info on the lower part of the screen do not flicker to emulate transparency
 |Akira (Famicom)|CGB-AKIRA-EUR|✅|✅|1.09|A Remake of Akira (Famicom) with GB Studio
 |America Oudan Ultra-Quiz Part 2|DMG-AUJ|✅|✅|1.09|
 |Asteroids|DMG-ANE-0|✅|✅|1.09|
 |Bokujou Monogatari|DMG-AYWJ-JPN|✅|✅|1.09|
+|Bomber Boy|DMG-HBA|✅|✅|1.09|
 |Cult Jump|DMG-C7J|✅|✅|1.09|
 |Dead Heat Fighters World Heroes 2 Jet|DMG-AWJJ-JPN|✅|✅|1.09|
 |Donkey Kong|DMG-QDA|✅|✅|1.09|
@@ -34,16 +37,21 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Galaga & Galaxian|DMG-AGCJ-JPN|✅|✅|1.09|
 |Game de Hakken!! Tamagotchi|DMG-ATAJ-JPN|✅|✅|1.09|
 |Game de Hakken!! Tamagotchi 2|DMG-AT3J-JPN|✅|✅|1.09|
+|Gameboy Camera|MGB-006|✅|✅|1.08|
 |Hamster Paradise 4|CGB-BCUJ-JPN|✅|✅|1.09|
 |Hiryu no Ken Gaiden|DMG-HRJ|✅|✅|1.09|
 |Hokuto No Ken (Fist of the North Star)|DMG-HKJ|✅|✅|1.09|
 |Hoshi no Kirby|DMG-KYJ|✅|✅|1.09|
 |Kirby no Kirakira Kids|DMG-AKCJ-JPN|✅|✅|1.09|
+|Looney Tunes|DMG-LNJ|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
+|Medarot 2: Kabuto Version|DMG-A2MJ-JPN|✅|✅|1.09|
 |Megami Tensei Gaiden: Last Bible II|DMG-M9J|✅|✅|1.09|
 |Metal Gear: Ghost Babel|CGB-BMGJ-JPN|✅|✅|1.09|
+|Micro Machines 1 and 2: Twin Turbo|CGB-AT8E-USA|✅|✅|1.09|
 |Motocross Maniacs|DMG-MXA|✅|✅|1.09|
 |Nettou Real Bout Garou Densetsu Special|DMG-ARBJ-JPN|✅|✅|1.09|
 |Onigashima Pachinko-Ten|DMG-OGJ|✅|✅|1.09|
+|Pitman|DMG-PMA|✅|✅|1.09|
 |Princess Poffin and the Spider Invasion|GB Studio Everdrive X7 1.06|✅|✅|1.09|
 |QIX (World)|DMG-QXA|✅|✅|1.09|
 |Quarth|DMG-QRJ|✅|✅|1.09|
@@ -57,14 +65,6 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Tetris DX|DMG-ATEA-JPN|✅|✅|1.09|
 |Tokio Senki: Eiyuu Retsuden|DMG-TIJ|✅|✅|1.09|
 |Wario Land 2: Nusumareta Zaihou|DMG-AW2J-JPN|✅|✅|1.09|
+|Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|✅|1.08|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
-|Medarot 2: Kabuto Version|DMG-A2MJ-JPN|✅|✅|1.09|
-|Looney Tunes|DMG-LNJ|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
-|Bomber Boy|DMG-HBA|✅|✅|1.09|
-|Pitman|DMG-PMA|✅|✅|1.09|
-|Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|❌|1.09|Entering the first level "Out of the Woods" keeps resetting to the title screen
-|Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|✅|1.08|
-|Gameboy Camera|MGB-006|✅|✅|1.08|
-|Micro Machines 1 and 2: Twin Turbo|CGB-AT8E-USA|✅|✅|1.09|
-|Killer Instinct|DMG-AKLE-USA|❌|❌|1.09|Playable, but has some minor graphical glitches. In GBC mode needs the GB_CLRFIX also
