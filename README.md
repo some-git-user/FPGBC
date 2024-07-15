@@ -18,6 +18,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Wave Race|DMG-WA-USA-1|❌|❌|1.09|works, but the map and info on the lower part of the screen do not flicker to emulate transparency
 |Akira (Famicom)|CGB-AKIRA-EUR|✅|✅|1.09|A Remake of Akira (Famicom) with GB Studio
 |America Oudan Ultra-Quiz Part 2|DMG-AUJ|✅|✅|1.09|
+|Asteroids|DMG-ANE-0|✅|✅|1.09|
 |Bokujou Monogatari|DMG-AYWJ-JPN|✅|✅|1.09|
 |Cult Jump|DMG-C7J|✅|✅|1.09|
 |Dead Heat Fighters World Heroes 2 Jet|DMG-AWJJ-JPN|✅|✅|1.09|
@@ -57,4 +58,3 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Wario Land 2: Nusumareta Zaihou|DMG-AW2J-JPN|✅|✅|1.09|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
-|Asteroids|DMG-ANE-0|✅|✅|1.09|
