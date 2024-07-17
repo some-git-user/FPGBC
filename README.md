@@ -35,6 +35,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Elevator Action USA|DMG-EA-USA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
 |F-1 Race|DMG-F1A|✅|✅|1.09|
 |Fatal Fury 2: Dead Heat Fighters|DMG-X3J|✅|✅|1.09|
+|Flipull|DMG-FPA|✅|✅|1.09|
 |Galaga & Galaxian|DMG-AGCJ-JPN|✅|✅|1.09|
 |Game de Hakken!! Tamagotchi|DMG-ATAJ-JPN|✅|✅|1.09|
 |Game de Hakken!! Tamagotchi 2|DMG-AT3J-JPN|✅|✅|1.09|
@@ -70,4 +71,3 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|✅|1.08|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
-|Flipull|DMG-FPA|✅|✅|1.09|
