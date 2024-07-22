@@ -12,13 +12,13 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Cannon Fodder|CGB-BCFE-USA|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Disney's Aladdin|DMG-ALAE-USA|✅|❌|1.09|In GBC mode needs the GB_CLRFIX, but has graphic glitches in transitions
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
+|Everdrive Clone|GB Rev H|❌|❌|1.10|Stays stuck in a loop restarting
 |Everdrive X7|Model 17 Rev.C 20.02.2018|❌|❌|1.10|I get many, MANY!, error messages like "fat16 not supported", "FF", "FAT not found", "FAT error F3 FA F0", stuck on "OS Loading..."/"OS init...", white screen after game has loaded, "SD IO error disk read error D3", "SD card not found C0", "MEMORY ERROR", "Unexcpected error 80". Tested with several SD cards. Often, it needs to be removed and reinserted, or to be powered  off and on again to work properly. Tested on Everdrive OS 1.06. Best FW version to use is currently 1.08. Way less errors with this version, but still read/write errors while loading games. As a workaround, use your OG Gameboy and only load the games with it, then switch to your FPGBC and after hopefully successfuly boot up, hit the "start" button to start the pre-loaded game (no joke...)
 |Killer Instinct|DMG-AKLE-USA|❌|❌|1.09|Playable, but has some minor graphical glitches. In GBC mode needs the GB_CLRFIX also
 |Kirby - Tilt 'n' Tumble|CGB-KTNE-USA|❌|❌|1.09|works, but sound gradually goes away and randomly returns. random blank screen after powering on
 |Medarot 2: Kabuto Version|DMG-A2MJ-JPN|✅|❌|1.09|In GBC core boots to blank screen
 |Rampart|DMG-R8J|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Tarzan: Lord of the Jungle|DMG-ZK|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
-|Tetris Attack|DMG-AYLE-USA|✅|✅|1.10|On GBC core no longer seems to have missing graphics. Just enable color fix
 |Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|❌|1.09|Entering the first level "Out of the Woods" keeps resetting to the title screen
 |Wave Race|DMG-WA-USA-1|❌|❌|1.09|works, but the map and info on the lower part of the screen do not flicker to emulate transparency
 |Akira (Famicom)|CGB-AKIRA-EUR|✅|✅|1.09|A Remake of Akira (Famicom) with GB Studio
@@ -65,10 +65,10 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Super Mario Land 3: Wario Land|DMG-WJA|✅|✅|1.09|
 |Tetris|DMG-TR-USA|✅|✅|1.09|
 |Tetris|DMG-TRA|✅|✅|1.09|
+|Tetris Attack|DMG-AYLE-USA|✅|✅|1.10|On GBC core no longer seems to have missing graphics. Just enable color fix
 |Tetris DX|DMG-ATEA-JPN|✅|✅|1.09|
 |Tokio Senki: Eiyuu Retsuden|DMG-TIJ|✅|✅|1.09|
 |Wario Land 2: Nusumareta Zaihou|DMG-AW2J-JPN|✅|✅|1.09|
 |Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|✅|1.08|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
-|Everdrive Clone|GB Rev H|❌|❌|1.10|Stays stuck in a loop restarting
