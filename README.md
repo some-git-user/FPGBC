@@ -18,7 +18,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Medarot 2: Kabuto Version|DMG-A2MJ-JPN|✅|❌|1.09|In GBC core boots to blank screen
 |Rampart|DMG-R8J|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Tarzan: Lord of the Jungle|DMG-ZK|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
-|Tetris Attack|DMG-AYLE-USA|✅|❌|1.09|Works on GB mode, but on GBC it has missing graphics, even with the CLRfix
+|Tetris Attack|DMG-AYLE-USA|✅|✅|1.10|On GBC core no longer seems to have missing graphics. Just enable color fix
 |Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|❌|1.09|Entering the first level "Out of the Woods" keeps resetting to the title screen
 |Wave Race|DMG-WA-USA-1|❌|❌|1.09|works, but the map and info on the lower part of the screen do not flicker to emulate transparency
 |Akira (Famicom)|CGB-AKIRA-EUR|✅|✅|1.09|A Remake of Akira (Famicom) with GB Studio
@@ -71,3 +71,4 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|✅|1.08|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
+|Everdrive Clone|GB Rev H|❌|❌|1.10|Stays stuck in a loop restarting
