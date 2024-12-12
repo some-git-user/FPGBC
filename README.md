@@ -13,7 +13,6 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Disney's Aladdin|DMG-ALAE-USA|✅|❌|1.09|In GBC mode needs the GB_CLRFIX, but has graphic glitches in transitions
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
 |Everdrive Clone|GB Rev H|❌|❌|1.10|Stays stuck in a loop restarting
-|Everdrive X7|Model 17 Rev.C 20.02.2018|✅|✅|1.14|No problems so far since FW 1.14. Thank you funnyplaying!
 |Killer Instinct|DMG-AKLE-USA|❌|❌|1.09|Playable, but has some minor graphical glitches. In GBC mode needs the GB_CLRFIX also
 |Kirby - Tilt 'n' Tumble|CGB-KTNE-USA|❌|❌|1.09|works, but sound gradually goes away and randomly returns. random blank screen after powering on
 |Medarot 2: Kabuto Version|DMG-A2MJ-JPN|✅|❌|1.09|In GBC core boots to blank screen
@@ -33,6 +32,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Dr. Mario|DMG-VUA|✅|✅|1.09|
 |Elevator Action JPN|DMG-EAA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
 |Elevator Action USA|DMG-EA-USA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
+|Everdrive X7|Model 17 Rev.C 20.02.2018|✅|✅|1.14|No problems so far since FW 1.14. Thank you funnyplaying!
 |F-1 Race|DMG-F1A|✅|✅|1.09|
 |Fatal Fury 2: Dead Heat Fighters|DMG-X3J|✅|✅|1.09|
 |Flipull|DMG-FPA|✅|✅|1.09|
