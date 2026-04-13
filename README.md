@@ -14,7 +14,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Conker's Pocket Tales|DMG-ACRE-USA|❌|✅|1.14|Minor visual glitches on title screen in GB core. Reported to FunnyPlaying.
 |Disney's Aladdin|DMG-ALAE-USA|✅|❌|1.09|In GBC mode needs the GB_CLRFIX, but has graphic glitches in transitions
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
-|Everdrive Clone|GB Rev H|❌|❌|1.10|Stays stuck in a loop restarting, works in 1.14
+|Everdrive Clone|GB Rev H|❌|❌|1.10|Stays stuck in a loop restarting
 |Killer Instinct|DMG-AKLE-USA|❌|❌|1.09|Playable, but has some minor graphical glitches. In GBC mode needs the GB_CLRFIX also
 |Kirby - Tilt 'n' Tumble|CGB-KTNE-USA|❌|❌|1.09|works, but sound gradually goes away and randomly returns. random blank screen after powering on
 |Medarot 2: Kabuto Version|DMG-A2MJ-JPN|✅|❌|1.09|In GBC core boots to blank screen
