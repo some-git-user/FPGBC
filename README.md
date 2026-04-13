@@ -71,5 +71,6 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Tokio Senki: Eiyuu Retsuden|DMG-TIJ|✅|✅|1.09|
 |Wario Land 2: Nusumareta Zaihou|DMG-AW2J-JPN|✅|✅|1.09|
 |Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|✅|1.08|
+|Wave Race|DMG-WA-USA-1|✅|✅|1.14|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
