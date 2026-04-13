@@ -11,6 +11,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Alleyway|DMG-AW-USA|❌|❌|1.08|Controls broken. Depending on your board's version. 1.11 and 1.1 requieres the removal of a resistor in the board, 1.12 should not need it. This is the same resistor you'd remove on the 1.08 firmware on the 1.1 boards for the Gameboy printer compatibility. Alleyway has some weird interaction with the serial port and that's why it's borked without the resistor removal
 |Cannon Fodder|CGB-BCFE-USA|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
 |Cannon Fodder|CGB-BCFE-USA|❌|✅|1.14|Game has no GB compatibility, FMV issues fixed, matches pitch and speed of real hardware
+|Conker's Pocket Tales|DMG-ACRE-USA|❌|✅|1.14|Minor visual glitches on title screen in GB core. Reported to FunnyPlaying.
 |Disney's Aladdin|DMG-ALAE-USA|✅|❌|1.09|In GBC mode needs the GB_CLRFIX, but has graphic glitches in transitions
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
 |Everdrive Clone|GB Rev H|❌|❌|1.10|Stays stuck in a loop restarting, works in 1.14
@@ -26,7 +27,6 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Asteroids|DMG-ANE-0|✅|✅|1.09|
 |Bokujou Monogatari|DMG-AYWJ-JPN|✅|✅|1.09|
 |Bomber Boy|DMG-HBA|✅|✅|1.09|
-|Conker's Pocket Tales|DMG-ACRE-USA|❌|✅|1.14|Minor visual glitches on title screen in GB core. Reported to FunnyPlaying.
 |Cult Jump|DMG-C7J|✅|✅|1.09|
 |Dead Heat Fighters World Heroes 2 Jet|DMG-AWJJ-JPN|✅|✅|1.09|
 |Donkey Kong|DMG-QDA|✅|✅|1.09|
