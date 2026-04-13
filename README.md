@@ -10,6 +10,8 @@ P.S. If you notice any color or graphic glitches, try the following:
 |---------------------|-------------|---------|----------|------------------|-----------------------------------------------------------|
 |Alleyway|DMG-AW-USA|❌|❌|1.08|Controls broken. Depending on your board's version. 1.11 and 1.1 requieres the removal of a resistor in the board, 1.12 should not need it. This is the same resistor you'd remove on the 1.08 firmware on the 1.1 boards for the Gameboy printer compatibility. Alleyway has some weird interaction with the serial port and that's why it's borked without the resistor removal
 |Cannon Fodder|CGB-BCFE-USA|❌|❌|1.09|works, but makes heavy use of digitized sound, which has an additional buzzing and off key sound
+|Cannon Fodder|CGB-BCFE-USA|❌|✅|1.14|Game has no GB compatibility, FMV issues fixed, matches pitch and speed of real hardware
+|Conker's Pocket Tales|DMG-ACRE-USA|❌|✅|1.14|Minor visual glitches on title screen in GB core. Reported to FunnyPlaying.
 |Disney's Aladdin|DMG-ALAE-USA|✅|❌|1.09|In GBC mode needs the GB_CLRFIX, but has graphic glitches in transitions
 |Doraemon Kart|DMG-ADRJ-JPN|❌|❌|1.09|In game graphic glitches, A, B buttons not responding to input, game is unplayable
 |Everdrive Clone|GB Rev H|❌|❌|1.10|Stays stuck in a loop restarting
@@ -32,6 +34,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Dr. Mario|DMG-VUA|✅|✅|1.09|
 |Elevator Action JPN|DMG-EAA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
 |Elevator Action USA|DMG-EA-USA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
+|Everdrive Clone|GB Rev H|✅|✅|1.14|
 |Everdrive X7|Model 17 Rev.C 20.02.2018|✅|✅|1.14|No problems so far since FW 1.14. Thank you funnyplaying!
 |F-1 Race|DMG-F1A|✅|✅|1.09|
 |Fatal Fury 2: Dead Heat Fighters|DMG-X3J|✅|✅|1.09|
@@ -70,5 +73,6 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Tokio Senki: Eiyuu Retsuden|DMG-TIJ|✅|✅|1.09|
 |Wario Land 2: Nusumareta Zaihou|DMG-AW2J-JPN|✅|✅|1.09|
 |Wario Land 3 Mysterious Music Box|CGB-AW8A-JPN|✅|✅|1.08|
+|Wave Race|DMG-WA-USA-1|✅|✅|1.14|
 |Wizardry Gaiden I: Queen's Passion|DMG-WIJ|✅|✅|1.09|
 |Zelda no Densetsu - Yume o Miru Shima DX|DMG-AZLJ-JPN|✅|✅|1.09|
