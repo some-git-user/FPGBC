@@ -25,6 +25,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Asteroids|DMG-ANE-0|✅|✅|1.09|
 |Bokujou Monogatari|DMG-AYWJ-JPN|✅|✅|1.09|
 |Bomber Boy|DMG-HBA|✅|✅|1.09|
+|Conker's Pocket Tales|DMG-ACRE-USA|❌|✅|1.14|Minor visual glitches on title screen in GB core. Reported to FunnyPlaying.
 |Cult Jump|DMG-C7J|✅|✅|1.09|
 |Dead Heat Fighters World Heroes 2 Jet|DMG-AWJJ-JPN|✅|✅|1.09|
 |Donkey Kong|DMG-QDA|✅|✅|1.09|
