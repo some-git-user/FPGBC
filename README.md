@@ -33,6 +33,7 @@ P.S. If you notice any color or graphic glitches, try the following:
 |Dr. Mario|DMG-VUA|✅|✅|1.09|
 |Elevator Action JPN|DMG-EAA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
 |Elevator Action USA|DMG-EA-USA|✅|✅|1.09|In GBC mode needs the GB_CLRFIX
+|Everdrive Clone|GB Rev H|✅|✅|1.14|
 |Everdrive X7|Model 17 Rev.C 20.02.2018|✅|✅|1.14|No problems so far since FW 1.14. Thank you funnyplaying!
 |F-1 Race|DMG-F1A|✅|✅|1.09|
 |Fatal Fury 2: Dead Heat Fighters|DMG-X3J|✅|✅|1.09|
